@@ -1,3 +1,3 @@
 # INFO229
 
-Tarea de bot de discord con bases de datos
+Actividades realizadas para el curso de base de datos
