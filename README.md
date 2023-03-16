@@ -1,3 +1,3 @@
 # INFO229
 
-Actividades realizadas para el curso de base de datos
+Actividades realizadas para el curso de Arquitectura de Sistemas
